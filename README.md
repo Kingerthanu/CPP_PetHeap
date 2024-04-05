@@ -14,9 +14,11 @@
 
 **The Breakdown:**
 
-  This Program Works To Fully Implement A Priority Heap Structure In Which Has The Ability To Either Percolate Up, Or Down For Proper Insertion And Adjustment In Which Is Needed To Uphold The Proper Capabilities Of The ADT.
+  This Program Works To Fully Implement A Priority Heap Structure In Which Has The Ability To Either Percolate Up, Or Down For Proper Insertion And Adjustment In Which Is Needed To Uphold The Proper Capabilities Of The ADT. This Includes Insertion, Removal, As Well As Searches And Printing Of Our Node Data In Level-Order From Our Priority Heap (In This Case Based Upon Animal Age).
 
-  We Interface With Our Heap Using The Terminal With A Function In Our Driver File In Which Asks For User Input And Does The Respective Action.
+  We Interface With Our Heap Using The Terminal With A Function In Our Driver File In Which Asks For User Input And Does The Respective Action In The Heap.
+
+  Our Tests Give Thorough Unit Testing Of Our Codebase By Ensuring Random, Extraneous Answers Are Sanitized For As Well As Testing Known Invariants Of Our ADT With Its Actions (I.E. We Know Our Function MUST Return **X** If Properly Behaving).
 
 
 <img src="https://github.com/Kingerthanu/CPP_PetHeap/assets/76754592/85b878ef-9cc9-4b8c-8d84-0ff0107be278" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_PetHeap/assets/76754592/85b878ef-9cc9-4b8c-8d84-0ff0107be278" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_PetHeap/assets/76754592/85b878ef-9cc9-4b8c-8d84-0ff0107be278" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_PetHeap/assets/76754592/85b878ef-9cc9-4b8c-8d84-0ff0107be278" alt="Cornstarch <3" width="55" height="49">
