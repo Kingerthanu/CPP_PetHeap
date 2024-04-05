@@ -21,6 +21,8 @@
   Our Tests Give Thorough Unit Testing Of Our Codebase By Ensuring Random, Extraneous Answers Are Sanitized For As Well As Testing Known Invariants Of Our ADT With Its Actions (I.E. We Know Our Function MUST Return **X** If Properly Behaving).
 
 
+This Project Taught Me A Lot About Following Outlines For Behaivor Of A Given Functionality Prompt As Well As Defending Against Hidden Extraneuous Memory Bugs As Ensuring Proper Removal Of Nodes And Linking Of Nodes Was Difficult To Understand And Uphold Throughout Development. Unit Testing Also Has Always Been Fun To Learn And Has Been A Major Staple Of This Project As I Remember Spending A LOT Of Time Weeding Out Problems Using Random Unit Tests Or Expected Solutions In Which Didn't Go As Intented/Expected.
+
 <img src="https://github.com/Kingerthanu/CPP_PetHeap/assets/76754592/85b878ef-9cc9-4b8c-8d84-0ff0107be278" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_PetHeap/assets/76754592/85b878ef-9cc9-4b8c-8d84-0ff0107be278" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_PetHeap/assets/76754592/85b878ef-9cc9-4b8c-8d84-0ff0107be278" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_PetHeap/assets/76754592/85b878ef-9cc9-4b8c-8d84-0ff0107be278" alt="Cornstarch <3" width="55" height="49">
 
 ----------------------------------------------------------------------------
