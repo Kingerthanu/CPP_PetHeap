@@ -14,6 +14,7 @@
 
 **The Breakdown:**
 
+  This Program Works To Fully Implement A Priority Heap Structure In Which Has The Ability To Either Percolate Up, Or Down For Proper Insertion And Adjustment In Which Is Needed To Uphold The Proper Capabilities Of The ADT.
 
 
 <img src="https://github.com/Kingerthanu/CPP_PetHeap/assets/76754592/85b878ef-9cc9-4b8c-8d84-0ff0107be278" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_PetHeap/assets/76754592/85b878ef-9cc9-4b8c-8d84-0ff0107be278" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_PetHeap/assets/76754592/85b878ef-9cc9-4b8c-8d84-0ff0107be278" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_PetHeap/assets/76754592/85b878ef-9cc9-4b8c-8d84-0ff0107be278" alt="Cornstarch <3" width="55" height="49">
